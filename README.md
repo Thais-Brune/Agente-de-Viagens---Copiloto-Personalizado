@@ -1,9 +1,5 @@
 # Agente-de-Viagens---Copiloto-Personalizado
 
-## Desafio
-
-Criar um Copiloto com fluxo de conversa personalizado usando o **Microsoft Copilot Studio**, simulando um atendimento de um agente de viagens.
-
 Este projeto faz parte de um desafio prático que visa aplicar a criação de copilotos com inteligência artificial generativa, usando fluxos de conversa estruturados e personalizados.
 
 ---
